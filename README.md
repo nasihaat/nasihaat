@@ -3,7 +3,7 @@
 💻 I'm a Web Developer passionate about building modern web apps.  
 🌱 I’m currently learning React   
 🚀 Projects: Laravel Portfolio Platform  
-📫 Reach me at: nasihaat.dev@gmail.com  
+📫 Reach me at: nasiha.at@gmail.com  
 
 ### 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript, HTML, CSS  
